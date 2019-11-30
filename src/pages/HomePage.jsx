@@ -1,8 +1,8 @@
 import React from 'react'
-import HelloWorld from '../components/HelloWorld'
+import Avado from '../components/Avado'
 
 const HomePage = () => {
-  return <HelloWorld />
+  return <Avado />
 }
 
 export default HomePage
