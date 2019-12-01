@@ -9,7 +9,9 @@ const App = () => {
   return (
     <Router>
       <header>
-        <h1>Avado</h1>
+        <h1 className="welcome">
+          <span className="theA">A</span>VADO
+        </h1>
         <nav>
           <ul>
             <li>
